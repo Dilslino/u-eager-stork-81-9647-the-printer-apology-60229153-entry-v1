@@ -1,8 +1,8 @@
 # The Printer Apology — "Sorry I Jammed Again"
 
 [![Bounty](https://make.fun/badge/u-eager-stork-81-9647-the-printer-apology-60229153.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-printer-apology-60229153?ref=5548afh3)
-[![Rank](https://make.fun/badge/u-eager-stork-81-9647-the-printer-apology-60229153/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-printer-apology-60229153?ref=5548afh3)
-[![Reward](https://make.fun/badge/u-eager-stork-81-9647-the-printer-apology-60229153/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-printer-apology-60229153?ref=5548afh3)
+[![Rank](https://make.fun/badge/u-eager-stork-81-9647-the-printer-apology-60229153/Dilslino/u-eager-stork-81-9647-the-printer-apology-60229153-entry-v1/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-printer-apology-60229153?ref=5548afh3)
+[![Reward](https://make.fun/badge/u-eager-stork-81-9647-the-printer-apology-60229153/Dilslino/u-eager-stork-81-9647-the-printer-apology-60229153-entry-v1/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-printer-apology-60229153?ref=5548afh3)
 
 Entry for the make.fun competition
 **u-eager-stork-81-9647-the-printer-apology-60229153**: write the funniest
